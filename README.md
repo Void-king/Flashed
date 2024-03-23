@@ -1,5 +1,1 @@
-# Flashed
-Just a use of a brain cell
-
-
-Hello this is Exploratory Data Analysis  of Telecom Churn 
+# Hello this is Data analysis of USA based store I have done the analysis of the data and use tableau for doing the visualization answering the question of region based and product based Information of sales.
